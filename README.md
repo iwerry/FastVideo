@@ -1,7 +1,5 @@
 # FastVideo 
 
-Link for access: [FastVideo](https://heroic-chimera-a9c40b.netlify.app/)
-
 Overview
 FastVideo is a fast and lightweight video player designed for Windows users, created with an emphasis on simplicity, responsiveness, and functionality. Built to optimize the viewing experience, it opens video files instantly, adapts display settings based on video orientation, and offers a range of interactive shortcuts and features to enhance video navigation, editing, and overall usability.
 
@@ -37,7 +35,7 @@ Windows Installation Guide
 # To install FastVideo from GitHub:
 
 1 - Clone the repository: 
-######## git clone https://github.com/username/FastVideo.git ########## (we will soon be able to install)
+git clone https://github.com/iwerry/FastVideo.git
 
 2 - Navigate to the project folder:
 cd FastVideo
